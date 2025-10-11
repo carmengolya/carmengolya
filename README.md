@@ -1,4 +1,4 @@
-# Hi there, I'm [Golya Carmen-Mihaela] 👋
+# Hi there, I'm Golya Carmen-Mihaela 👋
 
 👨‍💻 **C++ SWE Intern @ Nokia**  
 🎓 **Computer Engineering Student @ UPT**  
