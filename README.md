@@ -31,7 +31,7 @@
 
 ## 🐍 Snake Contribution Graph
 
-![Snake animation](https://github.com/your-username/carmengolya/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carmengolya/carmengolya/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
