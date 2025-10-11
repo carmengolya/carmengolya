@@ -19,19 +19,19 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_title=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carmengolya&show_icons=true&theme=radical&hide_title=false)
 
 ---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carmengolya&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🐍 Snake Contribution Graph
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/your-username/carmengolya/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
