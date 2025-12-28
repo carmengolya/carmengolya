@@ -17,8 +17,8 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carmengolya&show_icons=true&theme=radical&rank_icon=github&display_format=v2&cache_seconds=86400" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carmengolya&theme=radical&cache_seconds=86400" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carmengolya&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.app/?user=carmengolya&theme=radical" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
