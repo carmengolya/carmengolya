@@ -10,8 +10,8 @@
 
 ---
 
-**GitHub Stats & Streak:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carmengolya&show_icons=true&theme=radical&cache_seconds=86400)
-[![GitHub Streak](https://streak-stats.demolab.app/?user=carmengolya&theme=radical)](https://git.io/streak-stats)
+**GitHub Stats & Streak:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carmengolya&show_icons=true&theme=radical&hide_border=true) 
+![GitHub Streak](https://streak-stats.demolab.app/?user=carmengolya&theme=radical&hide_border=true)
 
 ---
 
