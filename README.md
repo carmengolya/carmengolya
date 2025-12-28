@@ -1,18 +1,16 @@
 # Hi, I'm Golya Carmen-Mihaela 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-Intern-00599C?style=flat-square&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Nokia-SWE-001135?style=flat-square&logo=nokia" />
-  <img src="https://img.shields.io/badge/Computer%20Engineering-UPT-red?style=flat-square" />
-</p>
-
 👨‍💻 **C++ SWE Intern @ Nokia** | 🎓 **Computer Engineering @ UPT**  
 🛠️ Passionate about Embedded Systems, Low-level Programming & Clean Code
 
 ---
+### 🛠️ Tech Stack
 
-**My Tools:**  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Verilog](https://img.shields.io/badge/-Verilog-ef1a1a?style=flat-square&logo=verilog&logoColor=white) ![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **Embedded & HW** | ![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white) ![Verilog](https://img.shields.io/badge/-Verilog-ef1a1a?style=flat-square&logo=verilog&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
