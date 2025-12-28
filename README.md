@@ -14,15 +14,18 @@
 
 ---
 
-**GitHub Stats & Streak:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carmengolya&show_icons=true&theme=radical&hide_border=true) 
-![GitHub Streak](https://streak-stats.demolab.app/?user=carmengolya&theme=radical&hide_border=true)
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carmengolya&show_icons=true&theme=radical&rank_icon=github&display_format=v2&cache_seconds=86400" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carmengolya&theme=radical&cache_seconds=86400" height="170" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carmengolya/carmengolya/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%" />
+</p>
 
 ---
 
-**Contributions:**  
-![Snake animation](https://github.com/carmengolya/carmengolya/blob/output/github-contribution-grid-snake.svg)
-
----
-
-**Reach Me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-mihaela-golya-455131280/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:golya.carmen13@gmail.com)
+### 📫 Let's connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-mihaela-golya-455131280/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golya.carmen13@gmail.com)
