@@ -1,5 +1,11 @@
 # Hi, I'm Golya Carmen-Mihaela 👋
 
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-Intern-00599C?style=flat-square&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Nokia-SWE-001135?style=flat-square&logo=nokia" />
+  <img src="https://img.shields.io/badge/Computer%20Engineering-UPT-red?style=flat-square" />
+</p>
+
 👨‍💻 **C++ SWE Intern @ Nokia** | 🎓 **Computer Engineering @ UPT**  
 🛠️ Passionate about Embedded Systems, Low-level Programming & Clean Code
 
