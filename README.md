@@ -1,7 +1,7 @@
 # Hi, I'm Golya Carmen-Mihaela 👋
 
-👨‍💻 **C++ SWE Intern @ Nokia** | 🎓 **Computer Engineering @ UPT**  
-🛠️ Passionate about Embedded Systems, Low-level Programming & Clean Code
+> **C++ SWE Intern @ Nokia** | 🎓 **Computer Engineering @ UPT**  
+> Passionate about Embedded Systems, Low-level Programming & Clean Code
 
 ---
 ### 🛠️ Tech Stack
